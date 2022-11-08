@@ -8,10 +8,10 @@ import { TodoList } from "./components/TodoList";
 import { TodoSearch } from "./components/TodoSearch";
 
 const todos = [
-    { content: "Learn React Native", completed: true },
-    { content: "Learn Next.js", completed: false },
-    { content: "Learn Angular", completed: false },
-    { content: "Learn Vue.js", completed: false },
+    { content: "Aprender React", completed: true },
+    { content: "Aprender MongoDb", completed: false },
+    { content: "Ir de compras", completed: false },
+    { content: "Hacer Ejercicio", completed: false },
 ];
 
 function App() {
