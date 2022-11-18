@@ -1,0 +1,17 @@
+.todo-button {
+    background-color: #090f60;
+    width: 8rem;
+    height: 2.5rem;
+    border: none;
+    border-radius: 2rem;
+    color: #fff;
+    font-weight: 500;
+    
+    
+}
+
+.todo-button:hover {
+    background: rgb(133,7,218);
+    background: linear-gradient(90deg, rgba(133,7,218,1) 43%, rgba(58,29,253,1) 83%);
+}
+
