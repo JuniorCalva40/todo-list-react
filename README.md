@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-[![Alt text](public/assets/image.png)](https://www.youtube.com/watch?v=configuroweb)
+[![Alt text](public/assets/image.png)](https://youtu.be/PTp5mEW3AaY)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
